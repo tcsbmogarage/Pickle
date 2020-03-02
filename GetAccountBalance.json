@@ -1,0 +1,20 @@
+{
+  "Accounts": [
+    {
+      "id": "Thanga",
+      "Balance": "300"
+    },
+    {
+      "id": "Suman",
+      "Balance": "10000"
+    },
+    {
+      "id": "Sandy",
+      "Balance": "800"
+    },
+    {
+      "id": "Kelly",
+      "Balance": "200"
+    }
+  ]
+}
