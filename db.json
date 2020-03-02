@@ -1,5 +1,5 @@
 {
-  "Accounts": [
+  "GetAccountBalance": [
     {
       "id": "Thanga",
       "Balance": "300"
