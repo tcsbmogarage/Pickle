@@ -1,22 +1,22 @@
 {
   "GetAccountBalance": [
     {
-      "id": "icici",
+      "id": "ICICI",
       "Name": "ICICI Bank",
       "Balance": "300"
     },
     {
-      "id": "hdfc",
+      "id": "HDFC",
       "Name": "HDFC Bank",
       "Balance": "10000"
     },
     {
-      "id": "digi",
+      "id": "DBS",
       "Name": "Digi Bank",
       "Balance": "800"
     },
     {
-      "id": "sbi",
+      "id": "SBI",
       "Name": "State bank of india",
       "Balance": "200"
     }
